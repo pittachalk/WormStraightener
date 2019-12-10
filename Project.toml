@@ -1,0 +1,15 @@
+name = "WormStraightener"
+uuid = "5a95c8b6-c6f8-4022-958e-0203ff38d516"
+authors = ["fxquah <contact@fxquah.com>"]
+version = "0.1.0"
+
+[deps]
+DataInterpolations = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Gtk = "4c0ca9eb-093a-5379-98c5-f87ac0bbbf44"
+ImageMetadata = "bc367c6b-8a6b-528e-b4bd-a4b897500b49"
+ImageView = "86fae568-95e7-573e-a6b2-d8a6b900c9ef"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+SmoothingSplines = "102930c3-cf33-599f-b3b1-9a29a5acab30"
+Splines = "0a2d9e4a-8750-5bf4-ab63-3db8b36203b6"
