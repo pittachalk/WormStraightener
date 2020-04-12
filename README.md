@@ -7,7 +7,7 @@ This is a simple ImageJ macro to straighten objects in a directory of images, gi
 ## Running the macro
 Download or clone this repository onto your computer.
 ```
-git clone https://github.com/fxquah/WormStraightener.git
+git clone https://github.com/pittachalk/WormStraightener.git
 ```
 
 The `WormStraightener.ijm` script can be run within the ImageJ interface. Use the dropdown menu: *Plugins > Macros > Run*, and choose the script.
